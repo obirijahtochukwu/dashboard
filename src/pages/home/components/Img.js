@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import style from "./index.module.scss";
+// import style from "./index.module.scss";
 
 export default function Img({ props }) {
   const [windowWidth, setWindowWidth] = useState(0);
